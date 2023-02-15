@@ -1,0 +1,8 @@
+name: cookiecutter-personal
+channels:
+  - conda-forge
+  - salilab
+  - defaults
+dependencies:
+  - cookiecutter
+prefix: /home/daiver/programs/miniconda3/envs/cookiecutter-personal
